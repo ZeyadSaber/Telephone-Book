@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1545505303 source:c:\users\hp\desktop\telephone book\load.c
+	<stdio.h>
+	<stdlib.h>
+	"declare.h"
+
+1545892862 source:c:\users\hp\desktop\telephone book\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declare.h"
+	"search.h"
+	"add.h"
+	"delete.h"
+	"modify.h"
+	"string.h"
+	"print.h"
+	"quit.h"
+	"save.h"
+
+1544747462 c:\users\hp\desktop\telephone book\load.h
+	"declare.h"
+
+1545859029 c:\users\hp\desktop\telephone book\declare.h
+
+1545207424 c:\users\hp\desktop\telephone book\search.h
+	"declare.h"
+
+1545889051 source:c:\users\hp\desktop\telephone book\search.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"declare.h"
+
+1545859029 source:c:\users\hp\desktop\telephone book\add.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545846334 source:c:\users\hp\desktop\telephone book\delete.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545852322 source:c:\users\hp\desktop\telephone book\modify.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545847783 c:\users\hp\desktop\telephone book\add.h
+	"declare.h"
+
+1545648870 c:\users\hp\desktop\telephone book\delete.h
+	"declare.h"
+
+1545834281 c:\users\hp\desktop\telephone book\modify.h
+	"declare.h"
+	"add.h"
+
+1545789232 source:c:\users\hp\desktop\telephone book\print.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545647099 c:\users\hp\desktop\telephone book\print.h
+
+1545788924 source:c:\users\hp\desktop\telephone book\save.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+
+1545750988 c:\users\hp\desktop\telephone book\quit.h
+
+1545750921 c:\users\hp\desktop\telephone book\save.h
+
+1545750921 source:c:\users\hp\desktop\telephone book\quit.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"save.h"
+
+1545859029 source:d:\my projects\telephone book\add.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545859029 d:\my projects\telephone book\declare.h
+
+1545846334 source:d:\my projects\telephone book\delete.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545892862 source:d:\my projects\telephone book\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declare.h"
+	"search.h"
+	"add.h"
+	"delete.h"
+	"modify.h"
+	"string.h"
+	"print.h"
+	"quit.h"
+	"save.h"
+
+1545207424 d:\my projects\telephone book\search.h
+	"declare.h"
+
+1545847783 d:\my projects\telephone book\add.h
+	"declare.h"
+
+1545648870 d:\my projects\telephone book\delete.h
+	"declare.h"
+
+1545834281 d:\my projects\telephone book\modify.h
+	"declare.h"
+	"add.h"
+
+1545647099 d:\my projects\telephone book\print.h
+
+1545750988 d:\my projects\telephone book\quit.h
+
+1545750921 d:\my projects\telephone book\save.h
+
+1545852322 source:d:\my projects\telephone book\modify.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545789232 source:d:\my projects\telephone book\print.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"string.h"
+
+1545750921 source:d:\my projects\telephone book\quit.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+	"save.h"
+
+1545788924 source:d:\my projects\telephone book\save.c
+	<stdlib.h>
+	<stdio.h>
+	"declare.h"
+
+1545889051 source:d:\my projects\telephone book\search.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"declare.h"
+
